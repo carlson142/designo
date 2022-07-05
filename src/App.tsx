@@ -23,7 +23,7 @@ const App: React.FC = () => {
     <Container>
       <Header />
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/designo/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/location" element={<LocationPage />} />
         <Route path="/contact" element={<ContactPage />} />

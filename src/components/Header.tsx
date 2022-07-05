@@ -77,7 +77,7 @@ const Header: React.FC = () => {
 
   return (
     <Container>
-      <LogoContainer to={"/"}>
+      <LogoContainer to={"/designo/"}>
         <Logo src={logo} alt="logo" />
       </LogoContainer>
 

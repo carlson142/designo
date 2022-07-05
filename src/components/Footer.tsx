@@ -154,7 +154,7 @@ const Footer: React.FC = () => {
   return (
     <Container>
       <Top>
-        <LogoContainer to={"/"}>
+        <LogoContainer to={"/designo/"}>
           <Logo src={logo} alt="logo" />
         </LogoContainer>
 
