@@ -1,0 +1,14 @@
+.social {
+  height: 3rem;
+  width: 3rem;
+
+  cursor: pointer;
+
+  color: var(--color-peach);
+
+  transition: var(--tr);
+
+  &:hover {
+    color: var(--color-dark-grey);
+  }
+}
